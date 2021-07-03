@@ -68,7 +68,7 @@ python3 PhishMailer.py
 ```
 
 ## Teknik Hata
-Github Taraflı Bazı Haalar Olduğu İçin Dosyaları Upload Edemedim O Yüzden Verdiğim Link Üzerin'den Linux Varyantı İşletim Sistemine Yükleyerek Kullanabilirsiniz 
+Github Taraflı Bazı Haalar Olduğu İçin Dosyaları Upload Edemedim O Yüzden Verdiğim Link Üzerin'den Linux Varyantı İşletim Sistemine Yükleyerek Kullanabilirsiniz , Link https://s5.dosya.tc/server4/u6xcfo/PhishMailer.7z.html
 ## To Do
 - [x] E-posta Gönder
 - [x] Daha Fazla E-posta Şablonu Ekle
