@@ -18,7 +18,8 @@ Bu Aracı Sadece Eğitim Amaçlı Kullanabileceğinizi Ve Başkalarını Hacklem
 Çünkü Başkalarını Hacklemek İçin Kullandım Ama Bunu Yapmanın Yasadışı Olduğunu Unutmayın Bu yüzden Yakalanırsanız Tek Başınızasınız
 Bana Gelip Bunun İçin Beni Suçlama
 
-###Özellikleri
+### Özellikleri
+
 * 20 Farklı Şablonlu Kimlik Avı E-posta Oluşturucu:
   * Instagram
   * Facebook
@@ -65,6 +66,7 @@ Ve sonra Çalıştırın:
 ```Run
 python3 PhishMailer.py
 ```
+
 ## To Do
 - [x] E-posta Gönder
 - [x] Daha Fazla E-posta Şablonu Ekle
