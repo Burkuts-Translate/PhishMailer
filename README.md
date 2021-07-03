@@ -3,7 +3,7 @@
 # PhishMailer
 
 
-**Yazar BiZken** **Çevirmen Bürküt**
+**Yazar BiZken , Çevirmen Bürküt**
 
 Kod Yapısında Bana Yardımcı Olduğu İçin Fanny Hasbi'ye Özel Teşekkürler: https://github.com/fannyhasbi
 
